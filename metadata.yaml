@@ -1,0 +1,30 @@
+_repo: The-Minister-s-Charge--Or-The-Apprenticeship-of-Lemuel-Barker_7410
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Boston (Mass.) -- Fiction'
+- !lcsh 'Poets -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- GITenberg
+title: The Minister's Charge; Or, The Apprenticeship of Lemuel Barker
+url: http://www.gutenberg.org/ebooks/7410
